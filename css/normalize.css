@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+a{
+    text-decoration:none;
+}
+button,input{
+    outline:none;
+    border:0;
+}
+ul li{
+    list-style:none;
+}
